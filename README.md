@@ -1,3 +1,3 @@
 # Sertifiket
 
-All your ownership at one place
+All your ownerships at one place
