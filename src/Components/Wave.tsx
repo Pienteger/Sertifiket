@@ -42,7 +42,7 @@ const Wave: React.FC<WaveProps> = ({
     const points = Array.from({ length: totalPoints }, (_, i) => {
         const x = i * increment;
         const y = calcWave(x);
-        return `${x},${y + height / 2}`;
+        return `${x}, ${y + height / 2}`;
     }).join(' ');
 
     return (

@@ -10,6 +10,9 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App />
+    <footer className='container mt-5 pt-5 pb-5'>
+      <a target="_blank" href="https://icons8.com/icon/yXOHowNYbgM5/verified-account">Verified Account</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+    </footer>
   </React.StrictMode>
 );
 
