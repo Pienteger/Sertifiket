@@ -20,10 +20,8 @@ function App() {
     "Building Trust with Secure Digital Certifications",
     "Certify Your Skills, Elevate Your Career",
     "Experience the Future of Digital Certifications",
-    "Certify with Confidence on Sertifiket",
     "Empowering Professionals with Verified Digital Credentials",
     "Your Digital Certifications, Your Path to Success",
-    "Simplify Your Certification Process with Sertifiket",
     "Securely Certify Your Expertise on Sertifiket",
     "All your ownership at one place"
   ];
@@ -44,7 +42,7 @@ function App() {
 
       <div style={{
         position: 'relative',
-        height: '17vh', overflow: 'hidden'
+        height: '20vh', overflow: 'hidden'
       }}>
         {waves.map((wave, index) => (
           <div
